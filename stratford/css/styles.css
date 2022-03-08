@@ -1,0 +1,244 @@
+.index{
+    background: url(../image/Laptop.png);
+    background-size: cover;
+}
+
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+
+}
+
+.header{
+    display: flex;
+
+}
+
+.logo, .Companyname{
+    padding-top: 30;
+    padding-left: 50;
+}
+
+.Companyname{
+    font-size: 40;
+    padding-top: 20;
+}
+
+.Companyname .p{
+    font-size: small;
+    color: gray;
+}
+
+.about{
+    background-color: black;
+    
+}
+
+.building{
+    display: flex;
+    position: relative;
+    top: 50;
+}
+
+.text{
+    position: relative;
+    left: 100;
+    font-size: 20;
+    left: 50;
+}
+
+.big{
+    font-size: 50;
+}
+
+.clients{
+    background: url(../image/clients.png);
+    background-size: cover;
+}
+
+.clientp{
+    display: flex;
+    position: relative;
+    top: 35;
+ 
+    
+}
+
+.client1{
+    text-decoration: none;
+    position: relative;
+    left: 220;
+    
+}
+.client2{
+    text-decoration: none;
+    position: relative;
+    left: 250;
+
+
+}
+
+.client3{
+    text-decoration: none;
+    position: relative;
+    left: 280;
+
+}
+
+.pictext{
+    background-color: aliceblue;
+    color: black;
+    text-align: center;
+    position: relative;
+    bottom: 25;
+}
+
+.client0{
+    color: black;
+    display: flex;
+    position: relative;
+   
+}
+.clientt1{
+    color: black;
+
+    padding-left: 220;
+    font-size: 50;
+}
+.clientt2{
+   
+    color: black;
+    padding-left: 220;
+    font-size: 20;
+   
+    
+}
+
+
+.serviceb{
+    background: black;
+}
+
+.main{
+    display: flex;
+    color: white;
+
+
+}
+
+.sub1, .sub2{
+
+    display: flex;
+    flex-direction: column;
+}
+
+.sub11{
+    padding-left: 50;
+    padding-top: 8;
+
+    font-size: 40;
+}
+
+.sub12{
+    padding-left:50 ;
+}
+
+.sub2{
+    display: flex;
+    flex-direction: column;
+    padding-left: 260;
+    padding-top: 40;
+}
+.sub21, .sub22, .sub23 {
+    display: flex;
+  
+}
+.num{
+    font-size: 30;
+    color: gray;
+    padding-top:20 ;
+
+}
+.numh{
+    font-size: 20;
+    
+}
+
+.numt{
+    padding-left: 30;
+
+}
+
+.num2{
+    font-size: 30;
+    color: gray;
+}
+
+.hand{
+    padding-left: 40;
+    
+}
+.contact{
+    background: black;
+}
+
+.bcontact{
+    display: flex;
+}
+.handt{
+    font-size: 50;
+   
+    padding-left: 40;
+}
+
+.contactT{
+    padding-left: 200;
+    padding-top: 240;
+}
+.contactTh{
+    font-size: 25;
+    color: grey;
+    font-weight: bold;
+}
+
+.list, .list2{
+    background:none;
+    box-shadow: 0,0,10;
+    display:flex;
+    justify-content: center;
+  
+}
+
+.item{
+    list-style: none;
+    margin-right: 40;
+}
+
+.item a{
+    text-decoration: none;
+    color:white;
+    
+}
+
+.item a:hover{
+    color:grey;
+
+}
+
+
+
+.item2{
+    list-style: none;
+    margin-right: 40;
+}
+
+.item2 a{
+    text-decoration: none;
+    color:black;
+    
+}
+
+.item2 a:hover{
+    color:grey;
+
+}
